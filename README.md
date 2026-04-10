@@ -2,7 +2,7 @@
 
 A production-ready AI-powered SaaS application that generates professional cover letters in seconds. Built with a modern dark glassmorphism UI and a full-stack architecture.
 
- Live Demo → Coming Soon
+ Live Demo → https://cover-letter-generator-alpha-three.vercel.app
 
 ---
 
